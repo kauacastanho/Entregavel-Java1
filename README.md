@@ -3,6 +3,7 @@
 
 ## Parte 1 - Histórico e Evolução do Java
 
+[link parte 2](Parte2.md)
 
 
 ### Introdução

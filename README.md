@@ -12,11 +12,11 @@ Java é uma das linguagens de programação mais utilizadas no mundo. Desde sua 
 
 ### Criação do Java
 
-A linguagem Java foi criada em **1995** por uma equipe de desenvolvedores liderada por :contentReference[oaicite:0]{index=0}, juntamente com :contentReference[oaicite:1]{index=1} e :contentReference[oaicite:2]{index=2}. O projeto foi desenvolvido dentro da empresa :contentReference[oaicite:3]{index=3}.
+A linguagem Java foi criada em **1995** por uma equipe de desenvolvedores liderada por [James Gosling](https://www.google.com/search?q=james+gosling&rlz=1C1GCEA_enBR1132BR1132&oq=james+gosl&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBggCEEUYOTIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDI4ODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8), juntamente com Mike Sheridan e Patrick Naughton. O projeto foi desenvolvido dentro da empresa Sun Microsystems.
 
-Inicialmente, o projeto tinha o nome **Oak** e foi criado para o desenvolvimento de software voltado a dispositivos eletrônicos e sistemas embarcados. Com o crescimento da internet na década de 1990, a linguagem passou a ser utilizada principalmente para o desenvolvimento de aplicações web.
+Inicialmente, o projeto tinha o nome Oak e foi criado para o desenvolvimento de software em dispositivos eletrônicos e sistemas embarcados. Porém, com o crescimento da internet na década de 1990, a linguagem passou a ser utilizada principalmente para aplicações web.
 
-Uma das ideias centrais do Java foi o conceito **“Write Once, Run Anywhere” (Escreva uma vez, execute em qualquer lugar)**. Isso significa que um programa Java pode rodar em diferentes plataformas graças à **Java Virtual Machine (JVM)**, que interpreta o código compilado.
+Uma das ideias centrais do Java foi o conceito “Write Once, Run Anywhere” (Escreva uma vez, execute em qualquer lugar), que significa que o código Java pode ser executado em diferentes plataformas graças à Java Virtual Machine (JVM).
 
 
 ### Empresa responsável pelo Java

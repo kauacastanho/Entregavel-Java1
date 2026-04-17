@@ -67,5 +67,5 @@ A IDE que eu escolheria para estudar é o IntelliJ IDEA, pois ela oferece uma ex
 
 ---
 
-[<<- Sumário](README.md) | [<- Parte 1](Parte2.md) | [Parte 3 ->](Parte3.md) 
+[<<- Sumário](README.md) | [<- Parte 1](Parte1.md) | [Parte 3 ->](Parte3.md) 
 

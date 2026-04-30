@@ -40,8 +40,6 @@ O Java é uma linguagem extremamente versátil e utilizada em diversas áreas:
   - Gerenciamento de dependências e automação de build
 - [Docker](https://www.docker.com/)
   - Usado para criar e executar aplicações em containers
-- [Apache Kafka](https://kafka.apache.org/)
-  - Utilizado para processamento de dados em tempo real
 
 ---
 

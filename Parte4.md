@@ -26,7 +26,6 @@ O Java é uma linguagem extremamente versátil e utilizada em diversas áreas:
 - Arquiteturas modernas usadas por grandes empresas
 - Big Data e Processamento de Dados
 - Ferramentas de análise de grandes volumes de dados
-- Tecnologias e frameworks mais utilizados
 
 ---
 
